@@ -10,7 +10,7 @@ Things you may want to cover:
 * System dependencies
 
 * Configuration
-
+sqlite3
 * Database creation
 
 * Database initialization
