@@ -6,11 +6,11 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
- 2.6.6
+ →2.6.6
 * System dependencies
 
 * Configuration
- sqlite3
+ →sqlite3
 * Database creation
 
 * Database initialization
